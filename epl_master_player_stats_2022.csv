@@ -2916,3 +2916,402 @@ fixture_id,team,player_id,player_name,minutes_played,rating,position,is_substitu
 868028,Chelsea,548,Hakim Ziyech,,,M,True,,,,,,,,,,
 868028,Chelsea,17,Christian Pulišić,11.0,6.6,M,True,,,,1.0,4.0,1.0,3,1.0,,2.0
 868028,Chelsea,138822,Armando Broja,15.0,6.3,F,True,,,,,,,,,,1.0
+868035,West Ham,2997,Łukasz Fabiański,90.0,7.7,G,False,,,,,33.0,,22,,,
+868035,West Ham,261,Thilo Kehrer,90.0,7.3,D,False,,,,,27.0,1.0,25,5.0,1.0,5.0
+868035,West Ham,19147,Craig Dawson,90.0,7.2,D,False,,,,,24.0,,23,1.0,,1.0
+868035,West Ham,2726,Kurt Zouma,90.0,6.9,D,False,,,,,31.0,,27,,,3.0
+868035,West Ham,18813,Aaron Cresswell,90.0,7.3,D,False,,,,,32.0,1.0,24,3.0,2.0,5.0
+868035,West Ham,1243,Tomáš Souček,90.0,7.5,M,False,,,,,39.0,2.0,31,5.0,,9.0
+868035,West Ham,2937,Declan Rice,90.0,7.7,M,False,,,,,58.0,2.0,50,2.0,2.0,5.0
+868035,West Ham,19428,Jarrod Bowen,90.0,7.9,M,False,2.0,2.0,1.0,,24.0,3.0,15,2.0,1.0,7.0
+868035,West Ham,1646,Lucas Paquetá,74.0,7,M,False,1.0,,,,42.0,,36,2.0,2.0,5.0
+868035,West Ham,665,Maxwel Cornet,34.0,6.7,M,False,1.0,,,,5.0,,3,1.0,,2.0
+868035,West Ham,30544,Gianluca Scamacca,66.0,7.3,F,False,2.0,1.0,1.0,,14.0,1.0,10,,,1.0
+868035,West Ham,253,Alphonse Aréola,,,G,True,,,,,,,,,,
+868035,West Ham,1231,Vladimír Coufal,,,D,True,,,,,,,,,,
+868035,West Ham,2284,Emerson Palmieri,16.0,6.7,D,True,,,,,8.0,1.0,7,,,1.0
+868035,West Ham,18817,Angelo Ogbonna,,,D,True,,,,,,,,,,
+868035,West Ham,2473,Manuel Lanzini,,,M,True,,,,,,,,,,
+868035,West Ham,19361,Saïd Benrahma,,,F,True,,,,,,,,,,
+868035,West Ham,19733,Flynn Downes,,,M,True,,,,,,,,,,
+868035,West Ham,1697,Pablo Fornals,56.0,7,M,True,3.0,1.0,,,24.0,,21,2.0,,2.0
+868035,West Ham,18819,Michail Antonio,24.0,6.3,F,True,1.0,1.0,,,11.0,,7,,,1.0
+868035,Wolves,1590,José Sá,90.0,6.2,G,False,,,,,17.0,,15,,,
+868035,Wolves,18740,Jonny Otto,90.0,6.3,D,False,1.0,1.0,,,82.0,1.0,73,1.0,2.0,2.0
+868035,Wolves,2676,Rúben Neves,90.0,6.9,D,False,1.0,,,,91.0,,79,1.0,1.0,2.0
+868035,Wolves,18744,Max Kilman,90.0,7.2,D,False,,,,,70.0,,59,1.0,3.0,2.0
+868035,Wolves,130,Nélson Semedo,73.0,6.6,M,False,,,,,31.0,1.0,29,,,1.0
+868035,Wolves,2677,João Moutinho,90.0,6.7,M,False,,,,,80.0,1.0,72,1.0,1.0,2.0
+868035,Wolves,41621,Matheus Nunes,72.0,6.9,M,False,1.0,,,,38.0,2.0,34,3.0,,7.0
+868035,Wolves,21138,Rayan Aït Nouri,90.0,6.9,M,False,,,,,54.0,1.0,47,1.0,,6.0
+868035,Wolves,1605,Daniel Podence,90.0,7,F,False,4.0,3.0,,,27.0,1.0,22,1.0,,3.0
+868035,Wolves,1864,Pedro Neto,24.0,6.3,F,False,,,,,5.0,1.0,4,,,
+868035,Wolves,925,Gonçalo Guedes,58.0,6.3,F,False,,,,,16.0,,15,,,1.0
+868035,Wolves,19173,Matija Šarkić,,,G,True,,,,,,,,,,
+868035,Wolves,280687,Hugo Bueno,,,D,True,,,,,,,,,,
+868035,Wolves,41606,Toti Gomes,,,D,True,,,,,,,,,,
+868035,Wolves,195717,Yerson Mosquera,,,D,True,,,,,,,,,,
+868035,Wolves,157912,Boubacar Traoré,17.0,6.9,M,True,,,,,14.0,,13,1.0,1.0,2.0
+868035,Wolves,61178,Connor Ronan,,,M,True,,,,,,,,,,
+868035,Wolves,158432,Chem Campbell,18.0,6.6,M,True,1.0,,,,9.0,,7,,,2.0
+868035,Wolves,18753,Adama Traoré,66.0,6.9,F,True,2.0,,,,18.0,1.0,13,2.0,,4.0
+868035,Wolves,54,Diego Costa,32.0,6.3,F,True,1.0,,,,12.0,,10,,,1.0
+868033,Manchester City,617,Ederson,90.0,6.9,G,False,,,,,67.0,,59,,,
+868033,Manchester City,627,Kyle Walker,41.0,6.5,D,False,,,,,23.0,,21,,,
+868033,Manchester City,5,Manuel Akanji,90.0,6.9,D,False,,,,,73.0,,71,2.0,,6.0
+868033,Manchester City,18861,Nathan Aké,90.0,6.3,D,False,,,,,66.0,1.0,58,,,2.0
+868033,Manchester City,855,João Cancelo,90.0,6.7,D,False,,,,,64.0,,55,3.0,5.0,9.0
+868033,Manchester City,629,Kevin De Bruyne,75.0,8.2,M,False,3.0,2.0,,2.0,31.0,2.0,26,,,3.0
+868033,Manchester City,633,İlkay Gündoğan,75.0,7,M,False,1.0,,,,32.0,,30,1.0,1.0,1.0
+868033,Manchester City,636,Bernardo Silva,90.0,7.2,M,False,1.0,1.0,,1.0,55.0,3.0,49,3.0,,4.0
+868033,Manchester City,631,Phil Foden,75.0,9.7,F,False,5.0,4.0,3.0,,22.0,,21,1.0,1.0,2.0
+868033,Manchester City,1100,Erling Haaland,90.0,10,F,False,5.0,3.0,3.0,2.0,23.0,4.0,17,,1.0,3.0
+868033,Manchester City,19187,Jack Grealish,75.0,7.5,F,False,,,,,34.0,3.0,28,,1.0,7.0
+868033,Manchester City,19197,Scott Carson,,,G,True,,,,,,,,,,
+868033,Manchester City,25004,Stefan Ortega,,,G,True,,,,,,,,,,
+868033,Manchester City,622,Aymeric Laporte,15.0,6.3,D,True,1.0,,,,20.0,,18,,,1.0
+868033,Manchester City,23,Sergio Gómez,49.0,7,M,True,,,,1.0,23.0,2.0,18,1.0,1.0,1.0
+868033,Manchester City,284230,Rico Lewis,,,D,True,,,,,,,,,,
+868033,Manchester City,567,Rúben Dias,,,D,True,,,,,,,,,,
+868033,Manchester City,152982,Cole Palmer,15.0,6.6,M,True,,,,,6.0,1.0,6,1.0,,1.0
+868033,Manchester City,6009,Julián Álvarez,15.0,6.3,F,True,,,,,8.0,,5,1.0,,2.0
+868033,Manchester City,635,Riyad Mahrez,15.0,6.3,F,True,,,,,4.0,,3,1.0,1.0,2.0
+868033,Manchester United,882,David De Gea,90.0,5.3,G,False,,,,,30.0,,19,,,
+868033,Manchester United,886,Diogo Dalot,90.0,5.9,D,False,,,,,46.0,1.0,42,,1.0,1.0
+868033,Manchester United,742,Raphaël Varane,40.0,6.3,D,False,,,,,17.0,,17,,,
+868033,Manchester United,2467,Lisandro Martínez,90.0,6.3,D,False,,,,,69.0,,61,1.0,2.0,2.0
+868033,Manchester United,37145,Tyrell Malacia,45.0,5.9,D,False,,,,,15.0,,14,1.0,,3.0
+868033,Manchester United,903,Scott McTominay,59.0,7.2,M,False,,,,,27.0,,23,4.0,1.0,4.0
+868033,Manchester United,174,Christian Eriksen,90.0,6.2,M,False,1.0,1.0,,1.0,42.0,2.0,35,1.0,,1.0
+868033,Manchester United,9971,Antony,90.0,6.9,M,False,3.0,2.0,1.0,,37.0,1.0,31,2.0,1.0,2.0
+868033,Manchester United,1485,Bruno Fernandes,90.0,6.2,M,False,1.0,1.0,,,40.0,,31,1.0,,4.0
+868033,Manchester United,18,Jadon Sancho,70.0,5.9,M,False,,,,,30.0,2.0,24,,1.0,
+868033,Manchester United,909,Marcus Rashford,59.0,6.3,F,False,,,,,8.0,,5,,,1.0
+868033,Manchester United,2931,Tom Heaton,,,G,True,,,,,,,,,,
+868033,Manchester United,891,Luke Shaw,45.0,6.3,D,True,,,,,29.0,1.0,28,1.0,,1.0
+868033,Manchester United,889,Victor Lindelöf,50.0,6.5,D,True,,,,,41.0,,40,1.0,,2.0
+868033,Manchester United,905,Fred,20.0,6.9,M,True,1.0,1.0,,,13.0,2.0,13,1.0,,1.0
+868033,Manchester United,153430,Anthony Elanga,,,F,True,,,,,,,,,,
+868033,Manchester United,70078,Facundo Pellistri,,,M,True,,,,,,,,,,
+868033,Manchester United,747,Casemiro,31.0,6.2,M,True,1.0,1.0,,,24.0,,19,1.0,1.0,2.0
+868033,Manchester United,908,Anthony Martial,31.0,8.2,F,True,2.0,2.0,2.0,,8.0,,6,,,3.0
+868033,Manchester United,874,Cristiano Ronaldo,,,F,True,,,,,,,,,,
+868030,Leeds,20619,Illan Meslier,90.0,7.9,G,False,,,,,29.0,,16,,,
+868030,Leeds,533,Rasmus Kristensen,68.0,6.9,D,False,,,,,34.0,,24,2.0,2.0,5.0
+868030,Leeds,26238,Robin Koch,90.0,7.2,D,False,,,,,49.0,,37,,1.0,5.0
+868030,Leeds,19118,Liam Cooper,90.0,7,D,False,1.0,,,,49.0,,39,,,4.0
+868030,Leeds,64003,Pascal Struijk,90.0,6.9,D,False,,,,,40.0,,32,1.0,2.0,5.0
+868030,Leeds,1150,Tyler Adams,90.0,6.9,M,False,,,,,42.0,,34,1.0,1.0,1.0
+868030,Leeds,47341,Marc Roca,58.0,6.9,M,False,,,,,38.0,1.0,28,2.0,,5.0
+868030,Leeds,19128,Jack Harrison,79.0,6.2,M,False,,,,,18.0,,12,1.0,,4.0
+868030,Leeds,50739,Brenden Aaronson,79.0,6.2,M,False,,,,,16.0,2.0,12,,,3.0
+868030,Leeds,37161,Luis Sinisterra,48.0,6,M,False,,,,,19.0,,15,2.0,,6.0
+868030,Leeds,935,Rodrigo,68.0,6.3,F,False,1.0,,,,16.0,,11,,,2.0
+868030,Leeds,39105,Kristoffer Klaesson,,,G,True,,,,,,,,,,
+868030,Leeds,19116,Luke Ayling,22.0,6.3,D,True,,,,,3.0,,1,1.0,,1.0
+868030,Leeds,1564,Junior Firpo,32.0,6.7,D,True,,,,,12.0,1.0,4,2.0,,4.0
+868030,Leeds,47302,Diego Llorente,,,D,True,,,,,,,,,,
+868030,Leeds,3008,Mateusz Klich,11.0,6,M,True,,,,,4.0,,2,,,
+868030,Leeds,153400,Sam Greenwood,,,F,True,,,,,,,,,,
+868030,Leeds,37724,Crysencio Summerville,11.0,6.3,M,True,,,,,4.0,,2,,,
+868030,Leeds,162128,Wilfried Gnonto,,,F,True,,,,,,,,,,
+868030,Leeds,19134,Patrick Bamford,22.0,6.6,F,True,1.0,1.0,,,2.0,1.0,1,,,1.0
+868030,Aston Villa,19599,Emiliano Martínez,90.0,7.3,G,False,,,,,31.0,,17,,,
+868030,Aston Villa,894,Ashley Young,90.0,7.9,D,False,,,,,59.0,5.0,50,1.0,1.0,3.0
+868030,Aston Villa,19354,Ezri Konsa,90.0,7.3,D,False,1.0,,,,52.0,,35,1.0,,13.0
+868030,Aston Villa,19179,Tyrone Mings,90.0,6.9,D,False,,,,,58.0,,51,1.0,1.0,1.0
+868030,Aston Villa,2852,Ludwig Augustinsson,45.0,6.3,D,False,,,,,14.0,,6,1.0,,6.0
+868030,Aston Villa,19192,Jacob Ramsey,83.0,6.9,M,False,1.0,,,,28.0,2.0,23,3.0,2.0,7.0
+868030,Aston Villa,47522,Douglas Luiz,90.0,7.9,M,False,,,,,61.0,2.0,50,2.0,3.0,8.0
+868030,Aston Villa,19191,John McGinn,90.0,7.3,M,False,1.0,,,,43.0,,32,4.0,2.0,9.0
+868030,Aston Villa,983,Leon Bailey,64.0,6.9,F,False,1.0,1.0,,,11.0,1.0,5,,,4.0
+868030,Aston Villa,19366,Ollie Watkins,90.0,6.2,F,False,6.0,4.0,,,16.0,1.0,9,,,10.0
+868030,Aston Villa,147,Philippe Coutinho,90.0,7.5,F,False,4.0,2.0,,,42.0,1.0,35,1.0,,7.0
+868030,Aston Villa,766,Robin Olsen,,,G,True,,,,,,,,,,
+868030,Aston Villa,2999,Jan Bednarek,45.0,7,D,True,,,,,41.0,,37,2.0,1.0,3.0
+868030,Aston Villa,76,Marvelous Nakamba,,,M,True,,,,,,,,,,
+868030,Aston Villa,19071,Emiliano Buendía,26.0,6.9,M,True,1.0,,,,22.0,1.0,19,,,
+868030,Aston Villa,284457,Lamare Bogarde,,,M,True,,,,,,,,,,
+868030,Aston Villa,1914,Morgan Sanson,,,M,True,,,,,,,,,,
+868030,Aston Villa,2922,Leander Dendoncker,,,M,True,,,,,,,,,,
+868030,Aston Villa,137302,Cameron Archer,,,F,True,,,,,,,,,,
+868030,Aston Villa,18955,Danny Ings,12.0,6.7,F,True,,,,,1.0,1.0,1,,,
+868031,Leicester,18146,Danny Ward,90.0,7.3,G,False,,,,,26.0,,22,,,1.0
+868031,Leicester,2920,Timothy Castagne,90.0,6.9,D,False,,,,,46.0,1.0,43,1.0,1.0,1.0
+868031,Leicester,18772,Jonny Evans,90.0,7.5,D,False,,,,,56.0,1.0,45,,2.0,1.0
+868031,Leicester,8694,Wout Faes,90.0,7.2,D,False,1.0,,,,70.0,,56,,1.0,6.0
+868031,Leicester,19760,James Justin,90.0,6.9,D,False,,,,,49.0,,39,,1.0,4.0
+868031,Leicester,18786,Wilfred Ndidi,45.0,6.9,M,False,,,,,14.0,,13,1.0,3.0,2.0
+868031,Leicester,18784,James Maddison,85.0,9.5,M,False,3.0,2.0,2.0,1.0,47.0,4.0,43,2.0,2.0,6.0
+868031,Leicester,2926,Youri Tielemans,80.0,6.6,M,False,,,,,67.0,2.0,63,,,
+868031,Leicester,148099,Kiernan Dewsbury-Hall,90.0,6.9,M,False,3.0,,,,42.0,,31,2.0,3.0,5.0
+868031,Leicester,18778,Harvey Barnes,90.0,7.5,M,False,2.0,2.0,1.0,,25.0,3.0,17,1.0,,4.0
+868031,Leicester,18788,Jamie Vardy,62.0,6.9,F,False,4.0,2.0,,1.0,7.0,1.0,3,,,
+868031,Leicester,17736,Daniel Iversen,,,G,True,,,,,,,,,,
+868031,Leicester,152969,Luke Thomas,,,D,True,,,,,,,,,,
+868031,Leicester,3421,Daniel Amartey,,,D,True,,,,,,,,,,
+868031,Leicester,22233,Boubakary Soumaré,45.0,7,M,True,,,,,27.0,,27,3.0,1.0,4.0
+868031,Leicester,18777,Marc Albrighton,9.0,6.7,M,True,,,,,5.0,,5,1.0,,2.0
+868031,Leicester,18906,Ayoze Pérez,,,F,True,,,,,,,,,,
+868031,Leicester,1098,Patson Daka,28.0,7.2,F,True,1.0,1.0,1.0,,8.0,,6,,,
+868031,Leicester,2925,Dennis Praet,10.0,6.7,M,True,,,,,3.0,,3,,,
+868031,Leicester,2778,Kelechi Iheanacho,,,F,True,,,,,,,,,,
+868031,Nottingham Forest,19088,Dean Henderson,90.0,5.9,G,False,,,,,46.0,,30,,,
+868031,Nottingham Forest,138780,Neco Williams,45.0,6.3,D,False,,,,,19.0,,9,2.0,4.0,4.0
+868031,Nottingham Forest,18863,Steve Cook,90.0,6.5,D,False,1.0,,,,74.0,,63,1.0,2.0,2.0
+868031,Nottingham Forest,44811,Scott McKenna,90.0,6.2,D,False,,,,,62.0,1.0,57,,,1.0
+868031,Nottingham Forest,10122,Renan Lodi,90.0,6.2,D,False,,,,,51.0,,39,3.0,3.0,6.0
+868031,Nottingham Forest,2991,Cheikhou Kouyaté,45.0,6.5,M,False,,,,,15.0,,10,2.0,1.0,4.0
+868031,Nottingham Forest,20503,Lewis O'Brien,45.0,6.3,M,False,,,,,15.0,,11,2.0,,5.0
+868031,Nottingham Forest,129711,Brennan Johnson,90.0,6.7,M,False,1.0,1.0,,,24.0,1.0,16,,,4.0
+868031,Nottingham Forest,18746,Morgan Gibbs-White,90.0,7,M,False,1.0,1.0,,,39.0,2.0,29,,1.0,1.0
+868031,Nottingham Forest,900,Jesse Lingard,69.0,6.3,M,False,,,,,16.0,,14,1.0,,2.0
+868031,Nottingham Forest,8598,Taiwo Awoniyi,62.0,6.2,F,False,3.0,1.0,,,8.0,,6,,,2.0
+868031,Nottingham Forest,18836,Wayne Hennessey,,,G,True,,,,,,,,,,
+868031,Nottingham Forest,163,Serge Aurier,45.0,6.9,D,True,,,,,28.0,1.0,21,2.0,1.0,5.0
+868031,Nottingham Forest,18739,Willy Boly,,,D,True,,,,,,,,,,
+868031,Nottingham Forest,1746,Joe Worrall,,,D,True,,,,,,,,,,
+868031,Nottingham Forest,2807,Remo Freuler,45.0,6.9,M,True,,,,,34.0,1.0,30,,1.0,
+868031,Nottingham Forest,24882,Orel Mangala,21.0,6.5,M,True,,,,,12.0,,9,1.0,,3.0
+868031,Nottingham Forest,19305,Ryan Yates,45.0,6.3,M,True,1.0,,,,16.0,,14,,,2.0
+868031,Nottingham Forest,18884,Sam Surridge,,,F,True,,,,,,,,,,
+868031,Nottingham Forest,80,Emmanuel Dennis,28.0,6.9,F,True,1.0,,,,5.0,1.0,4,,,2.0
+868043,Newcastle,18911,Nick Pope,90.0,7,G,False,,,,,18.0,,9,,,
+868043,Newcastle,169,Kieran Trippier,84.0,7.3,D,False,,,,1.0,52.0,3.0,42,,2.0,1.0
+868043,Newcastle,2806,Fabian Schär,90.0,6.7,D,False,,,,,24.0,,18,1.0,1.0,3.0
+868043,Newcastle,38734,Sven Botman,90.0,7.2,D,False,,,,,48.0,,42,4.0,,9.0
+868043,Newcastle,18961,Dan Burn,90.0,6.7,D,False,,,,,38.0,,26,2.0,,4.0
+868043,Newcastle,18901,Sean Longstaff,90.0,6.3,M,False,,,,,43.0,,38,1.0,,2.0
+868043,Newcastle,10135,Bruno Guimarães,78.0,8.9,M,False,2.0,2.0,2.0,,53.0,2.0,44,4.0,,6.0
+868043,Newcastle,1463,Joe Willock,90.0,6.5,M,False,1.0,,,,36.0,,31,,1.0,1.0
+868043,Newcastle,2507,Miguel Almirón,84.0,7.7,F,False,3.0,2.0,1.0,,27.0,1.0,22,1.0,,2.0
+868043,Newcastle,2939,Callum Wilson,84.0,6.9,F,False,2.0,,,1.0,15.0,3.0,12,,,2.0
+868043,Newcastle,19163,Jacob Murphy,66.0,7.5,F,False,2.0,2.0,1.0,,15.0,1.0,10,,,1.0
+868043,Newcastle,1972,Loris Karius,,,G,True,,,,,,,,,,
+868043,Newcastle,18894,Jamaal Lascelles,,,D,True,,,,,,,,,,
+868043,Newcastle,19076,Jamal Lewis,,,D,True,,,,,,,,,,
+868043,Newcastle,18941,Matt Targett,10.0,6.5,D,True,,,,,1.0,,1,,1.0,
+868043,Newcastle,138908,Elliot Anderson,10.0,7.2,M,True,,,,,2.0,,,2.0,1.0,4.0
+868043,Newcastle,723,Joelinton,24.0,6.9,F,True,,,,,11.0,,11,,,3.0
+868043,Newcastle,18873,Ryan Fraser,,,M,True,,,,,,,,,,
+868043,Newcastle,22173,Allan Saint-Maximin,12.0,6.6,F,True,,,,,4.0,,3,,,2.0
+868043,Newcastle,18931,Chris Wood,10.0,6.6,F,True,,,,,2.0,,,1.0,,3.0
+868043,Brentford,19465,David Raya,90.0,4.9,G,False,,,,,38.0,,17,,,
+868043,Brentford,1119,Kristoffer Ajer,90.0,6,D,False,,,,,35.0,,27,1.0,2.0,3.0
+868043,Brentford,18917,Ben Mee,71.0,6.6,D,False,,,,,29.0,,24,1.0,2.0,3.0
+868043,Brentford,19789,Ethan Pinnock,90.0,5.7,D,False,,,,,24.0,,16,,2.0,5.0
+868043,Brentford,44871,Aaron Hickey,84.0,6.2,M,False,,,,,25.0,,18,1.0,2.0,5.0
+868043,Brentford,20110,Shandon Baptiste,63.0,6.7,M,False,1.0,1.0,,,17.0,1.0,14,,2.0,3.0
+868043,Brentford,47438,Mathias Jensen,90.0,7.2,M,False,,,,,56.0,2.0,48,4.0,1.0,5.0
+868043,Brentford,19362,Joshua Dasilva,45.0,6.7,M,False,,,,,8.0,,5,1.0,,3.0
+868043,Brentford,19346,Rico Henry,90.0,6.2,M,False,,,,,22.0,,17,1.0,2.0,2.0
+868043,Brentford,20589,Bryan Mbeumo,63.0,6.5,F,False,1.0,1.0,,,9.0,,6,,,1.0
+868043,Brentford,19974,Ivan Toney,90.0,7.2,F,False,1.0,1.0,1.0,,25.0,1.0,19,,,6.0
+868043,Brentford,278041,Matthew Cox,,,G,True,,,,,,,,,,
+868043,Brentford,2731,Zanka,,,D,True,,,,,,,,,,
+868043,Brentford,15745,Mads Roerslev Rasmussen,,,D,True,,,,,,,,,,
+868043,Brentford,19352,Sergi Canós,,,F,True,,,,,,,,,,
+868043,Brentford,2699,Saman Ghoddos,11.0,6.3,F,True,,,,,3.0,,3,,,2.0
+868043,Brentford,15799,Frank Onyeka,27.0,6.5,M,True,,,,,7.0,,6,1.0,,2.0
+868043,Brentford,25073,Vitaly Janelt,45.0,6.3,M,True,,,,,11.0,,11,1.0,,1.0
+868043,Brentford,15908,Mikkel Damsgaard,19.0,5.9,M,True,,,,,4.0,,4,,,
+868043,Brentford,20649,Yoane Wissa,27.0,6.5,M,True,1.0,,,,7.0,,4,,,1.0
+868036,Bournemouth,912,Neto,90.0,6.9,G,False,,,,,23.0,,12,,,
+868036,Bournemouth,18815,Ryan Fredericks,72.0,6.2,D,False,,,,,33.0,,25,,,
+868036,Bournemouth,18866,Chris Mepham,90.0,7,D,False,1.0,,,,60.0,,54,2.0,1.0,3.0
+868036,Bournemouth,6610,Marcos Senesi,90.0,7.3,D,False,,,,,53.0,,49,3.0,1.0,3.0
+868036,Bournemouth,18869,Adam Smith,90.0,6.7,D,False,,,,,34.0,,29,1.0,4.0,2.0
+868036,Bournemouth,1125,Ryan Christie,90.0,7,M,False,3.0,3.0,1.0,,37.0,,32,1.0,1.0,5.0
+868036,Bournemouth,18872,Lewis Cook,90.0,6.7,M,False,,,,,35.0,2.0,28,1.0,,3.0
+868036,Bournemouth,2490,Jefferson Lerma,90.0,7,M,False,,,,,54.0,1.0,48,1.0,1.0,3.0
+868036,Bournemouth,19245,Marcus Tavernier,90.0,6.6,M,False,1.0,,,,35.0,,31,,1.0,7.0
+868036,Bournemouth,2734,Philip Billing,77.0,7.5,F,False,1.0,1.0,1.0,,32.0,1.0,30,2.0,,7.0
+868036,Bournemouth,18883,Dominic Solanke,89.0,6.5,F,False,,,,1.0,15.0,1.0,12,,,5.0
+868036,Bournemouth,18860,Mark Travers,,,G,True,,,,,,,,,,
+868036,Bournemouth,19824,Jordan Zemura,,,D,True,,,,,,,,,,
+868036,Bournemouth,19769,Jack Stacey,18.0,6.7,D,True,,,,,9.0,,7,1.0,1.0,1.0
+868036,Bournemouth,18940,Jack Stephens,,,D,True,,,,,,,,,,
+868036,Bournemouth,19356,Emiliano Marcondes,,,M,True,,,,,,,,,,
+868036,Bournemouth,19866,Jamal Lowe,,,F,True,,,,,,,,,,
+868036,Bournemouth,19964,Siriki Dembélé,,,M,True,,,,,,,,,,
+868036,Bournemouth,196855,Jaidon Anthony,13.0,6.2,F,True,,,,,4.0,,2,,,1.0
+868036,Bournemouth,19804,Kieffer Moore,1.0,,F,True,,,,,,,,1.0,,2.0
+868036,Leicester,18146,Danny Ward,90.0,6.5,G,False,,,,,30.0,,26,,,
+868036,Leicester,2920,Timothy Castagne,67.0,6.9,D,False,,,,,35.0,1.0,31,3.0,,6.0
+868036,Leicester,18772,Jonny Evans,90.0,7.2,D,False,1.0,1.0,,,77.0,,70,3.0,1.0,9.0
+868036,Leicester,8694,Wout Faes,90.0,7.6,D,False,1.0,,,,96.0,1.0,87,7.0,2.0,10.0
+868036,Leicester,19760,James Justin,86.0,7,D,False,,,,,62.0,1.0,52,3.0,,8.0
+868036,Leicester,22233,Boubakary Soumaré,79.0,6.6,M,False,,,,,39.0,,37,3.0,,6.0
+868036,Leicester,18784,James Maddison,90.0,6.9,M,False,1.0,1.0,,,41.0,2.0,36,2.0,,6.0
+868036,Leicester,2926,Youri Tielemans,90.0,7.2,M,False,,,,,74.0,,57,5.0,1.0,7.0
+868036,Leicester,148099,Kiernan Dewsbury-Hall,90.0,6.9,M,False,,,,,41.0,2.0,35,1.0,2.0,1.0
+868036,Leicester,18778,Harvey Barnes,90.0,6.9,M,False,1.0,1.0,,,24.0,,17,4.0,,8.0
+868036,Leicester,1098,Patson Daka,67.0,7,F,False,2.0,2.0,1.0,,10.0,,7,,,2.0
+868036,Leicester,17736,Daniel Iversen,,,G,True,,,,,,,,,,
+868036,Leicester,152969,Luke Thomas,,,D,True,,,,,,,,,,
+868036,Leicester,3421,Daniel Amartey,23.0,6.2,D,True,,,,,14.0,,14,,,
+868036,Leicester,18906,Ayoze Pérez,10.0,6.7,F,True,,,,,,,,1.0,,1.0
+868036,Leicester,18777,Marc Albrighton,,,M,True,,,,,,,,,,
+868036,Leicester,289624,Sammy Braybrooke,,,M,True,,,,,,,,,,
+868036,Leicester,2778,Kelechi Iheanacho,11.0,6.3,F,True,,,,,2.0,,2,,,
+868036,Leicester,2925,Dennis Praet,,,M,True,,,,,,,,,,
+868036,Leicester,18788,Jamie Vardy,23.0,6.3,F,True,1.0,,,,6.0,,4,,,
+868039,Chelsea,2273,Kepa Arrizabalaga,90.0,7.5,G,False,,,,,28.0,,24,1.0,,1.0
+868039,Chelsea,2280,César Azpilicueta,90.0,7.7,D,False,,,,,75.0,3.0,59,2.0,2.0,5.0
+868039,Chelsea,19720,Trevoh Chalobah,90.0,7.5,D,False,1.0,1.0,,,80.0,,77,2.0,1.0,3.0
+868039,Chelsea,318,Kalidou Koulibaly,90.0,7.9,D,False,1.0,,,,80.0,1.0,72,5.0,1.0,9.0
+868039,Chelsea,47380,Marc Cucurella,90.0,7.7,D,False,,,,,68.0,1.0,59,4.0,1.0,5.0
+868039,Chelsea,2292,Ruben Loftus-Cheek,66.0,6.9,M,False,1.0,,,,38.0,2.0,34,,,
+868039,Chelsea,2289,Jorginho,90.0,7.2,M,False,1.0,1.0,,,58.0,,54,4.0,1.0,7.0
+868039,Chelsea,67972,Conor Gallagher,86.0,7.9,M,False,2.0,,,,48.0,3.0,40,5.0,2.0,6.0
+868039,Chelsea,19220,Mason Mount,72.0,8.5,M,False,2.0,,,2.0,39.0,5.0,33,,,3.0
+868039,Chelsea,17,Christian Pulišić,72.0,7.3,M,False,4.0,2.0,1.0,,32.0,1.0,28,1.0,,1.0
+868039,Chelsea,978,Kai Havertz,86.0,6.7,F,False,4.0,2.0,1.0,,22.0,,18,1.0,,2.0
+868039,Chelsea,2986,Edouard Mendy,,,G,True,,,,,,,,,,
+868039,Chelsea,138935,Carney Chukwuemeka,4.0,,M,True,,,,,1.0,,1,,,1.0
+868039,Chelsea,2933,Ben Chilwell,,,D,True,,,,,,,,,,
+868039,Chelsea,19545,Reece James,18.0,6.6,D,True,,,,,5.0,,5,1.0,,3.0
+868039,Chelsea,2291,Mateo Kovačić,24.0,6.9,M,True,,,,1.0,14.0,1.0,13,,,
+868039,Chelsea,138822,Armando Broja,18.0,7.3,F,True,1.0,1.0,1.0,,2.0,,1,,,
+868039,Chelsea,548,Hakim Ziyech,4.0,,M,True,,,,,1.0,,,,,
+868039,Chelsea,645,Raheem Sterling,,,F,True,,,,,,,,,,
+868039,Chelsea,1465,Pierre-Emerick Aubameyang,,,F,True,,,,,,,,,,
+868039,Wolves,1590,José Sá,90.0,6.5,G,False,,,,,42.0,,36,,,
+868039,Wolves,130,Nélson Semedo,90.0,6.2,D,False,,,,,36.0,,32,2.0,,3.0
+868039,Wolves,18744,Max Kilman,90.0,6,D,False,1.0,,,,64.0,,56,,,3.0
+868039,Wolves,41606,Toti Gomes,90.0,6.7,D,False,,,,,60.0,,50,2.0,,5.0
+868039,Wolves,18740,Jonny Otto,72.0,6.3,D,False,1.0,,,,32.0,,29,,1.0,3.0
+868039,Wolves,2677,João Moutinho,90.0,7.9,M,False,1.0,1.0,,,53.0,2.0,48,5.0,3.0,6.0
+868039,Wolves,41621,Matheus Nunes,90.0,6.9,M,False,1.0,,,,45.0,1.0,36,2.0,,9.0
+868039,Wolves,18753,Adama Traoré,72.0,6.3,M,False,,,,,19.0,1.0,11,,,8.0
+868039,Wolves,1605,Daniel Podence,90.0,5.9,M,False,1.0,,,,28.0,,20,,,1.0
+868039,Wolves,925,Gonçalo Guedes,45.0,6.9,M,False,,,,,4.0,2.0,3,1.0,,3.0
+868039,Wolves,54,Diego Costa,56.0,6.2,F,False,,,,,5.0,,4,,,
+868039,Wolves,19173,Matija Šarkić,,,G,True,,,,,,,,,,
+868039,Wolves,280687,Hugo Bueno,,,D,True,,,,,,,,,,
+868039,Wolves,195717,Yerson Mosquera,,,D,True,,,,,,,,,,
+868039,Wolves,204033,Joe Hodge,45.0,6.3,M,True,,,,,23.0,,18,1.0,,1.0
+868039,Wolves,61178,Connor Ronan,,,M,True,,,,,,,,,,
+868039,Wolves,21138,Rayan Aït Nouri,18.0,6.3,D,True,,,,,5.0,,5,,1.0,
+868039,Wolves,158432,Chem Campbell,18.0,6,M,True,1.0,,,,10.0,,8,,,1.0
+868039,Wolves,24888,Hee-Chan Hwang,34.0,6.3,F,True,1.0,1.0,,,5.0,,4,,,
+868042,Manchester City,617,Ederson,90.0,6.9,G,False,,,,,34.0,,31,,,
+868042,Manchester City,5,Manuel Akanji,90.0,7.3,D,False,1.0,,,,79.0,,71,4.0,1.0,5.0
+868042,Manchester City,567,Rúben Dias,90.0,7.3,D,False,1.0,,,,96.0,,87,,2.0,3.0
+868042,Manchester City,18861,Nathan Aké,90.0,7.3,D,False,,,,,94.0,,89,2.0,1.0,9.0
+868042,Manchester City,855,João Cancelo,70.0,8.7,D,False,1.0,1.0,1.0,1.0,70.0,3.0,63,2.0,1.0,7.0
+868042,Manchester City,44,Rodri,90.0,8.2,M,False,,,,1.0,104.0,2.0,95,3.0,1.0,5.0
+868042,Manchester City,636,Bernardo Silva,78.0,7.2,M,False,1.0,,,,73.0,,72,1.0,1.0,1.0
+868042,Manchester City,635,Riyad Mahrez,70.0,7.6,M,False,4.0,2.0,1.0,,38.0,,33,1.0,,3.0
+868042,Manchester City,629,Kevin De Bruyne,70.0,7.7,M,False,,,,1.0,32.0,3.0,26,,,1.0
+868042,Manchester City,631,Phil Foden,58.0,9,M,False,4.0,3.0,1.0,1.0,38.0,4.0,26,,,
+868042,Manchester City,1100,Erling Haaland,90.0,6.7,F,False,3.0,1.0,1.0,,13.0,2.0,10,,,
+868042,Manchester City,25004,Stefan Ortega,,,G,True,,,,,,,,,,
+868042,Manchester City,278128,Josh Wilson-Esbrand,,,D,True,,,,,,,,,,
+868042,Manchester City,284230,Rico Lewis,12.0,6.7,D,True,,,,,12.0,,10,1.0,,1.0
+868042,Manchester City,622,Aymeric Laporte,,,D,True,,,,,,,,,,
+868042,Manchester City,23,Sergio Gómez,20.0,6.6,M,True,1.0,,,,15.0,,12,,,1.0
+868042,Manchester City,633,İlkay Gündoğan,,,M,True,,,,,,,,,,
+868042,Manchester City,152982,Cole Palmer,20.0,6.6,M,True,,,,,12.0,,11,,1.0,2.0
+868042,Manchester City,6009,Julián Álvarez,20.0,6.7,F,True,,,,,10.0,1.0,9,,,
+868042,Manchester City,19187,Jack Grealish,32.0,6.9,M,True,1.0,1.0,,,24.0,2.0,21,1.0,,3.0
+868042,Southampton,105971,Gavin Bazunu,90.0,6.5,G,False,,,,,61.0,,36,1.0,,2.0
+868042,Southampton,171,Kyle Walker-Peters,79.0,6.3,D,False,,,,,27.0,,21,2.0,2.0,3.0
+868042,Southampton,25061,Armel Bella-Kotchap,90.0,6.9,D,False,,,,,49.0,,41,2.0,3.0,4.0
+868042,Southampton,47480,Mohammed Salisu,90.0,6.9,D,False,,,,,54.0,,46,5.0,,6.0
+868042,Southampton,20600,Romain Perraud,90.0,5.9,D,False,1.0,,,,31.0,,28,3.0,,3.0
+868042,Southampton,18945,Stuart Armstrong,66.0,5.9,M,False,1.0,,,,14.0,,12,1.0,1.0,1.0
+868042,Southampton,2938,James Ward-Prowse,90.0,6.3,M,False,,,,,36.0,1.0,30,3.0,2.0,4.0
+868042,Southampton,20557,Ibrahima Diallo,90.0,6.3,M,False,,,,,43.0,,37,,1.0,4.0
+868042,Southampton,19825,Joe Aribo,79.0,6.2,M,False,,,,,21.0,,16,1.0,,3.0
+868042,Southampton,19524,Che Adams,90.0,6.7,F,False,,,,,16.0,,13,,,2.0
+868042,Southampton,19484,Adam Armstrong,66.0,6.2,F,False,,,,,19.0,1.0,18,,,1.0
+868042,Southampton,18935,Alex McCarthy,,,G,True,,,,,,,,,,
+868042,Southampton,30476,Lyanco,,,D,True,,,,,,,,,,
+868042,Southampton,1902,Duje Ćaleta-Car,,,D,True,,,,,,,,,,
+868042,Southampton,284264,Juan Larios,11.0,6.5,D,True,,,,,6.0,,5,,1.0,
+868042,Southampton,2114,Moussa Djenepo,24.0,6.7,M,True,,,,,8.0,,8,1.0,1.0,1.0
+868042,Southampton,18769,Theo Walcott,,,F,True,,,,,,,,,,
+868042,Southampton,18946,Mohamed Elyounoussi,24.0,6.5,M,True,1.0,,,,8.0,,6,,,1.0
+868042,Southampton,1456,Ainsley Maitland-Niles,,,M,True,,,,,,,,,,
+868042,Southampton,190686,Sékou Mara,11.0,6.2,F,True,,,,,,,,,,
+868038,Brighton,18959,Robert Sánchez,90.0,6.9,G,False,,,,,35.0,,28,,,
+868038,Brighton,537,Joël Veltman,88.0,6.3,D,False,,,,,65.0,,58,3.0,,4.0
+868038,Brighton,18963,Lewis Dunk,90.0,7,D,False,1.0,,,,79.0,,69,1.0,4.0,4.0
+868038,Brighton,19265,Adam Webster,90.0,7,D,False,,,,,80.0,1.0,74,1.0,1.0,3.0
+868038,Brighton,18973,Solly March,90.0,6.6,M,False,1.0,,,,44.0,1.0,37,,1.0,4.0
+868038,Brighton,6716,Alexis Mac Allister,90.0,7.9,M,False,2.0,1.0,,,118.0,2.0,106,4.0,1.0,7.0
+868038,Brighton,116117,Moisés Caicedo,89.0,7.5,M,False,1.0,1.0,,,86.0,4.0,79,3.0,2.0,5.0
+868038,Brighton,46731,Pervis Estupiñán,67.0,6.6,M,False,,,,,25.0,,21,1.0,1.0,2.0
+868038,Brighton,18970,Pascal Groß,82.0,7.3,F,False,,,,,56.0,3.0,51,1.0,,2.0
+868038,Brighton,1946,Leandro Trossard,90.0,6.3,F,False,,,,,45.0,1.0,38,,,2.0
+868038,Brighton,1469,Danny Welbeck,90.0,7.3,F,False,3.0,1.0,,,23.0,1.0,18,1.0,,7.0
+868038,Brighton,18960,Jason Steele,,,G,True,,,,,,,,,,
+868038,Brighton,138815,Tariq Lamptey,2.0,,D,True,,,,,5.0,,5,,,2.0
+868038,Brighton,280672,Ed Turns,,,D,True,,,,,,,,,,
+868038,Brighton,152953,Levi Colwill,,,D,True,,,,,,,,,,
+868038,Brighton,295,Adam Lallana,8.0,7.2,M,True,,,,,13.0,,9,2.0,,3.0
+868038,Brighton,106835,Kaoru Mitoma,23.0,6.6,M,True,1.0,1.0,,,12.0,1.0,10,,,5.0
+868038,Brighton,130423,Billy Gilmour,1.0,,M,True,,,,,8.0,,7,,,
+868038,Brighton,26475,Deniz Undav,,,F,True,,,,,,,,,,
+868038,Brighton,202086,Jeremy Sarmiento,,,F,True,,,,,,,,,,
+868038,Tottenham,159,Hugo Lloris,90.0,7.9,G,False,,,,,32.0,,23,,,1.0
+868038,Tottenham,30776,Cristian Romero,90.0,7,D,False,,,,,60.0,1.0,52,2.0,1.0,3.0
+868038,Tottenham,175,Eric Dier,90.0,6.6,D,False,,,,,68.0,,55,1.0,,2.0
+868038,Tottenham,164,Ben Davies,90.0,6.9,D,False,,,,,52.0,,47,,,1.0
+868038,Tottenham,18742,Matt Doherty,90.0,7.2,M,False,1.0,,,,33.0,,22,1.0,3.0,3.0
+868038,Tottenham,863,Rodrigo Bentancur,90.0,6.9,M,False,1.0,1.0,,,46.0,,38,6.0,,8.0
+868038,Tottenham,18968,Yves Bissouma,70.0,6.9,M,False,,,,,42.0,,35,1.0,1.0,2.0
+868038,Tottenham,2735,Pierre-Emile Højbjerg,90.0,7,M,False,,,,,78.0,1.0,67,,4.0,1.0
+868038,Tottenham,19032,Ryan Sessegnon,90.0,6.3,M,False,,,,,30.0,1.0,25,1.0,1.0,4.0
+868038,Tottenham,186,Heung-min Son,80.0,7.9,F,False,2.0,1.0,,1.0,20.0,3.0,14,1.0,1.0,8.0
+868038,Tottenham,184,Harry Kane,89.0,7.5,F,False,3.0,1.0,1.0,,16.0,1.0,10,1.0,,5.0
+868038,Tottenham,18932,Fraser Forster,,,G,True,,,,,,,,,,
+868038,Tottenham,168,Davinson Sánchez,,,D,True,,,,,,,,,,
+868038,Tottenham,133,Clément Lenglet,,,D,True,,,,,,,,,,
+868038,Tottenham,180,Oliver Skipp,1.0,,M,True,,,,,2.0,,2,,,
+868038,Tottenham,19235,Djed Spence,,,D,True,,,,,,,,,,
+868038,Tottenham,237129,Pape Matar Sarr,,,M,True,,,,,,,,,,
+868038,Tottenham,207,Ivan Perišić,10.0,6.3,M,True,,,,,4.0,,3,,,
+868038,Tottenham,2061,Bryan Gil,,,F,True,,,,,,,,,,
+868038,Tottenham,2413,Richarlison,20.0,6.3,F,True,,,,,6.0,,5,1.0,,1.0
+868045,West Ham,2997,Łukasz Fabiański,90.0,6.7,G,False,,,,,23.0,,15,,,1.0
+868045,West Ham,261,Thilo Kehrer,90.0,6.3,D,False,,,,,39.0,1.0,33,1.0,2.0,2.0
+868045,West Ham,19147,Craig Dawson,90.0,7.3,D,False,,,,,47.0,,40,3.0,,5.0
+868045,West Ham,2726,Kurt Zouma,90.0,6.6,D,False,,,,,48.0,,41,,2.0,
+868045,West Ham,18813,Aaron Cresswell,90.0,7.2,D,False,,,,,54.0,3.0,46,1.0,1.0,1.0
+868045,West Ham,1243,Tomáš Souček,90.0,7.3,M,False,,,,,49.0,1.0,40,2.0,4.0,4.0
+868045,West Ham,2937,Declan Rice,90.0,7,M,False,,,,,70.0,,63,2.0,3.0,3.0
+868045,West Ham,19428,Jarrod Bowen,90.0,6.9,M,False,2.0,2.0,1.0,,23.0,2.0,19,1.0,,2.0
+868045,West Ham,1646,Lucas Paquetá,84.0,7.3,M,False,3.0,1.0,,1.0,54.0,2.0,45,1.0,,6.0
+868045,West Ham,1697,Pablo Fornals,89.0,6.9,M,False,,,,,45.0,1.0,37,,,
+868045,West Ham,30544,Gianluca Scamacca,80.0,6.9,F,False,5.0,3.0,1.0,,17.0,2.0,12,1.0,,3.0
+868045,West Ham,253,Alphonse Aréola,,,G,True,,,,,,,,,,
+868045,West Ham,18817,Angelo Ogbonna,,,D,True,,,,,,,,,,
+868045,West Ham,18823,Ben Johnson,,,D,True,,,,,,,,,,
+868045,West Ham,2284,Emerson Palmieri,12.0,6.2,D,True,,,,,9.0,,6,,,1.0
+868045,West Ham,1231,Vladimír Coufal,,,D,True,,,,,,,,,,
+868045,West Ham,19733,Flynn Downes,1.0,,M,True,,,,,2.0,,2,,,
+868045,West Ham,2473,Manuel Lanzini,,,M,True,,,,,,,,,,
+868045,West Ham,19361,Saïd Benrahma,,,F,True,,,,,,,,,,
+868045,West Ham,18819,Michail Antonio,10.0,7.2,F,True,2.0,2.0,1.0,,5.0,,1,,,3.0
+868045,Fulham,1438,Bernd Leno,90.0,6.6,G,False,,,,,24.0,,22,,,1.0
+868045,Fulham,19004,Bobby Decordova-Reid,90.0,6.3,D,False,,,,,53.0,,41,2.0,1.0,3.0
+868045,Fulham,19145,Tosin Adarabioyo,90.0,6.3,D,False,,,,,61.0,,56,1.0,1.0,4.0
+868045,Fulham,19023,Tim Ream,90.0,6.5,D,False,,,,,69.0,,61,1.0,1.0,1.0
+868045,Fulham,19549,Antonee Robinson,90.0,6.6,D,False,,,,,54.0,,38,2.0,,6.0
+868045,Fulham,19480,Harrison Reed,71.0,6.3,M,False,,,,,42.0,,35,1.0,1.0,2.0
+868045,Fulham,41104,João Palhinha,90.0,6.5,M,False,,,,,60.0,,51,3.0,,3.0
+868045,Fulham,19329,Daniel James,77.0,7,M,False,3.0,,,,22.0,,19,,1.0,2.0
+868045,Fulham,899,Andreas Pereira,77.0,7,M,False,2.0,2.0,1.0,,31.0,1.0,22,1.0,,2.0
+868045,Fulham,19027,Neeskens Kebano,89.0,6.9,M,False,,,,1.0,21.0,2.0,18,2.0,,4.0
+868045,Fulham,104,Carlos Vinícius,90.0,6.2,F,False,1.0,,,,14.0,1.0,8,,,2.0
+868045,Fulham,19657,Marek Rodák,,,G,True,,,,,,,,,,
+868045,Fulham,946,Kevin Mbabu,,,D,True,,,,,,,,,,
+868045,Fulham,18814,Issa Diop,,,D,True,,,,,,,,,,
+868045,Fulham,18962,Shane Duffy,1.0,,D,True,,,,,1.0,,,,,1.0
+868045,Fulham,19025,Tom Cairney,19.0,6.3,M,True,,,,,19.0,,17,,,
+868045,Fulham,284475,Luke Harris,,,M,True,,,,,,,,,,
+868045,Fulham,359386,Martial Godo,,,F,True,,,,,,,,,,
+868045,Fulham,19221,Harry Wilson,13.0,6.2,M,True,,,,,9.0,,8,,,
+868045,Fulham,19393,Joshua Onomah,13.0,6.2,M,True,,,,,6.0,,4,1.0,,2.0
